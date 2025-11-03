@@ -33,7 +33,10 @@
 ## 1.11.–3. 11. 2025
 - Instalace **Home Assistant OS**.  
 - Základní konfigurace systému a vytvoření uživatelského účtu.  
-- Nastavení **Samba sdílení** pro přístup ke konfiguračním souborům z Macu.  
+- Nastavení **Samba sdílení** pro přístup ke konfiguračním souborům z Macu.
+  <img width="514" height="317" alt="image" src="https://github.com/user-attachments/assets/5b79ddba-6256-4a45-9cca-e9dff7189cd8" />
+
+ 
 - Instalace a konfigurace **Zigbee donglu Sonoff**:
   - Připojení donglu přes USB.  
   - Instalace integrace **ZHA** .  
@@ -41,6 +44,7 @@
 - Párování první **chytré žárovky (Zigbee, stmívatelná, RGB)**.  
 - Test ovládání jasu a změny barvy přes rozhraní Home Assistant.  
 - Ověření správné funkce integrace a reakce na příkazy.
+- [https://github.com/claytonjn/hass-circadian_lighting]
 
 - Aktivace integrace **HomeKit Bridge** v Home Assistantu.  
 - Nastavení **názvu a oblasti bridge** („Pokoj – Home Assistant“).  
