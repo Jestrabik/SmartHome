@@ -1,4 +1,4 @@
-# 🧾 Postup práce – Chytrá domácnost s Home Assistant
+# Postup práce – Chytrá domácnost s Home Assistant
 
 ## 16. 10. 2025
 - Prvotní analýza řešení chytrých domácností (Home Assistant, HomeKit, Tuya, Philips Hue).  
@@ -31,7 +31,10 @@
 ---
 
 ## 1.11.–3. 11. 2025
-- Instalace **Home Assistant OS**.  
+- Instalace **Home Assistant OS**.
+- [https://ubuntu.com/download/desktop]
+- [https://www.home-assistant.io/installation/generic-x86-64]
+- [https://github.com/home-assistant/operating-system/releases/download/16.2/haos_generic-x86-64-16.2.img.xz]  
 - Základní konfigurace systému a vytvoření uživatelského účtu.  
 - Nastavení **Samba sdílení** pro přístup ke konfiguračním souborům z Macu.
   <img width="514" height="317" alt="image" src="https://github.com/user-attachments/assets/5b79ddba-6256-4a45-9cca-e9dff7189cd8" />
@@ -57,7 +60,7 @@
 
 ---
 
-## ✅ Shrnutí fáze příprav
+## Shrnutí fáze příprav
 - Dokončena úvodní analýza a výběr technologií.  
 - Vytvořeny podklady a struktura projektu.  
 - Připraveno hardware a software prostředí (mini PC, Ubuntu, HA OS).  
