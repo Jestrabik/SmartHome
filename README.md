@@ -55,8 +55,15 @@
 - Spuštění **Home aplikace na iPhonu** a přidání nového zařízení pomocí QR kódu.  
 - Úspěšné spárování Home Assistantu s Apple HomeKit.  
 - Ověření přenosu zařízení – chytrá žárovka dostupná v aplikaci **Domácnost**.  
-- Test obousměrné komunikace (ovládání světla z iPhonu i z HA rozhraní).  
+- Test obousměrné komunikace (ovládání světla z iPhonu i z HA rozhraní).
 
+---
+
+## 10. 11. 2025
+- Zakoupení nových komponentů
+- Smart button zigbee
+- Humidity sensor zigbee
+- Door sensor zigbee
 
 ---
 
@@ -66,4 +73,5 @@
 - Připraveno hardware a software prostředí (mini PC, Ubuntu, HA OS).  
 - Nastaven přístup přes síť (Samba).  
 - Zprovozněn Zigbee koordinátor (Sonoff dongle).  
-- Úspěšně připojeno první zařízení – chytrá žárovka.  
+- Úspěšně připojeno první zařízení – chytrá žárovka.
+- Zakoupeny další 3 zařízení
