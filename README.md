@@ -67,6 +67,14 @@
 
 ---
 
+## 12. 11. 2O25
+- připojení zigbee smart buttonu
+- první automatizace tlačítka na logické zapnutí/vypnutí žárovky
+- YAML kód pro automatizaci:
+- <img width="914" height="474" alt="Snímek obrazovky 2025-11-11 v 20 33 45" src="https://github.com/user-attachments/assets/9c36ab3c-d267-42d2-9d78-e3068dce0184" />
+
+---
+
 ## Shrnutí fáze příprav
 - Dokončena úvodní analýza a výběr technologií.  
 - Vytvořeny podklady a struktura projektu.  
